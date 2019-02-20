@@ -6,3 +6,8 @@
 我自己的笔记是在听课时根据原始笔记再排版整理的，便于理解和记忆。  
 pdf版和word版内容一样，pdf可以在GitHub上直接打开。
 [打包下载](https://github.com/qujianxin/NCE-notes/archive/master.zip)
+
+
+视频课程：  
+链接：https://pan.baidu.com/s/1MI0PRuy5YauDUJa28lDcwQ 
+提取码：0rk0 
